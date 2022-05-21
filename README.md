@@ -69,7 +69,9 @@
   &emsp;
     <a href="https://sequelize.org/"><img alt="sequelize" src ="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white"/></a>
   &emsp;
-    <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></a>  
+    <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></a> 
+	&emsp;
+    <a href="https://vercel.com/"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>  
  </p>
   
 
@@ -104,8 +106,9 @@
 ## 🙋‍♂️ Contacto
 <p align="center">
 	<a href="mailto:anvignaduzzi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	&emsp;
 	<a href="https://github.com/albanovigna"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+	&emsp;
 	<a href="www.linkedin.com/in/albano-vignaduzzi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
-<hr/>
