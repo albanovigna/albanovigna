@@ -91,7 +91,7 @@
 
 <br/>
 
-## 📊 Github Stats 
+## 📊 Mis estadisticas 
 
   <br/>
   <p align="center">
