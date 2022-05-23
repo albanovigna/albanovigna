@@ -7,7 +7,7 @@
 ### 👨🏻‍💻 Sobre mi
 
 💡 &nbsp;Me gusta descubrir y aprender nuevas tecnologias y desarrollar soluciones de software.\
-🌱 &nbsp;Actualmente estoy aprendiendo TypeScript y Tailwind CSS.\
+🌱 &nbsp;Actualmente estoy aprendiendo TypeScript.\
 ✍️ &nbsp;En mi tiempo libre me gusta ver deportes, salir a caminar y jugar a mi otra pasion, el futbol ⚽.\
 💬 &nbsp;No dudes en contactarme para cualquier trabajo, duda o consulta que tengas.\
 ✉️ &nbsp;Podes escribirme a mi mail anvignaduzzi@gmail.com. Respondo lo mas rapido posible.\
