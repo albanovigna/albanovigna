@@ -11,7 +11,7 @@
 ✍️ &nbsp;En mi tiempo libre me gusta ver deportes, salir a caminar y jugar a mi otra pasion, el futbol ⚽.\
 💬 &nbsp;No dudes en contactarme para cualquier trabajo, duda o consulta que tengas.\
 ✉️ &nbsp;Podes escribirme a mi mail anvignaduzzi@gmail.com. Respondo lo mas rapido posible.\
-📄 &nbsp;Mira mi [CV](https://drive.google.com/file/d/1qAE0Bv0VWr2s4hK73rJi6HhxF_au_uXy/view?usp=sharing) si te interesa saber mas de mi. Cualquier feedback o sugerencia es mas que bienvenida!
+📄 &nbsp;Mira mi [CV](https://drive.google.com/file/d/1ef5s9Z4NGoMsbPT8WF0AUELLF2A0hlG9/view?usp=sharing) si te interesa saber mas de mi. Cualquier feedback o sugerencia es mas que bienvenida!
 
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=albanovigna&label=Profile%20views&color=0e75b6&style=plastic" alt="albanovigna" /> </p>
