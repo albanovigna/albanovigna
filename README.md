@@ -10,7 +10,7 @@
 🌱 &nbsp;Actualmente estoy aprendiendo TypeScript.\
 💬 &nbsp;No dudes en contactarme para cualquier trabajo, duda o consulta que tengas.\
 ✉️ &nbsp;Podes escribirme a mi mail anvignaduzzi@gmail.com. Respondo lo mas rapido posible.\
-📄 &nbsp;Mira mi [CV](https://drive.google.com/file/d/1DKMub6gWrPp71tSO4L3wRI6GA5ykqR1V/view) si te interesa saber mas de mi. Cualquier feedback o sugerencia es mas que bienvenida!
+📄 &nbsp;Mira mi [CV](https://drive.google.com/file/d/1lmcIKEIKLHNpZzhQVHoENBHmbECZvZi_/view) si te interesa saber mas de mi. Cualquier feedback o sugerencia es mas que bienvenida!
 
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=albanovigna&label=Profile%20views&color=0e75b6&style=plastic" alt="albanovigna" /> </p>
