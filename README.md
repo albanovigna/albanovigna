@@ -7,7 +7,6 @@
 ### 👨🏻‍💻 Sobre mi
 
 💡 &nbsp;Me gusta descubrir y aprender nuevas tecnologias y desarrollar soluciones de software.\
-🌱 &nbsp;Actualmente estoy aprendiendo TypeScript.\
 💬 &nbsp;No dudes en contactarme para cualquier trabajo, duda o consulta que tengas.\
 ✉️ &nbsp;Podes escribirme a mi mail anvignaduzzi@gmail.com. Respondo lo mas rapido posible.\
 📄 &nbsp;Mira mi [CV](https://drive.google.com/file/d/1lmcIKEIKLHNpZzhQVHoENBHmbECZvZi_/view) si te interesa saber mas de mi. Cualquier feedback o sugerencia es mas que bienvenida!
@@ -26,7 +25,13 @@
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
    </a>
   &emsp;
+  <a href="#" target="_blank"> 
+     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+   </a>
+  &emsp;
 </p>
+
+
 
 ### 👉 Frontend 
 <p align="left"> 
@@ -47,6 +52,9 @@
     <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
   </a> 
    &emsp;
+  <a href="#" target="_blank">
+    <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  </a> 
 </p>
 
 ### 👉 Backend 
